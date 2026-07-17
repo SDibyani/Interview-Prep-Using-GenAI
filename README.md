@@ -15,37 +15,37 @@ An AI-powered Interview Preparation platform built with the **MERN Stack** and *
 
 ###  Login Page
 
-![Login](screenshots/login.png)
+![Login](Screenshots/login.png)
 
 ---
 
 ###  Dashboard
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](Screenshots/dashboard.png)
 
 ---
 
 ###  Resume Analysis
 
-![Resume Analysis](screenshots/resume-analysis.png)
+![Resume Analysis](Screenshots/resume-analysis.png)
 
 ---
 
 ###  Skill Gap Analysis
 
-![Skill Gap](screenshots/skill-gap.png)
+![Skill Gap](Screenshots/skill-gap.png)
 
 ---
 
 ###  AI Interview Questions
 
-![Interview Questions](screenshots/interview-questions.png)
+![Interview Questions](Screenshots/interview-questions.png)
 
 ---
 
 ###  Resume Download
 
-![Resume Download](screenshots/resume-download.png)
+![Resume Download](Screenshots/resume-download.png)
 
 ---
 
